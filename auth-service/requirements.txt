@@ -42,3 +42,6 @@ uvicorn==0.20.0
 rsa==4.9
 LWE4==0.0.0.2
 
+redis
+
+
