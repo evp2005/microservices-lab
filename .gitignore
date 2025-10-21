@@ -1,0 +1,56 @@
+// ...existing code...
+.env
+
+# Python bytecode / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+pip-wheel-metadata/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.iml
+
+# Docker
+docker-compose.override.yml
+*.dockerignore
+
+# Database / local files
+*.sqlite3
+*.db
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+~$*
+
+# Secrets / keys
+*.pem
+*.key
+
+# Misc
+*.so
