@@ -1,4 +1,3 @@
-// ...existing code...
 # Laboratorio de Microservicios (Django + React)
 
 ## Resumen
